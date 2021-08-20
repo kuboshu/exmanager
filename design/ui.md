@@ -1,5 +1,8 @@
 # 画面構成
 
+## 画面遷移
+
+![画面遷移](image/page_flow.drawio.svg)
 
 
 # 画面詳細
